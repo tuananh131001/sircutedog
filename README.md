@@ -1,4 +1,8 @@
 # Lazy
+add to ~/.zshrc
+`
+`export PATH="/Applications/kitty.app/Contents/MacOS:$PATH"`
+
 
 ```nvim
 	{
